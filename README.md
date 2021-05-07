@@ -15,8 +15,13 @@ Some projects from The-Complete-2021-Web-Development-Bootcamp by Dr. Angela Yu
 Also, these changes were made in the "container".
 In addition, all attributes "data" in "carousel"  changed to data-bs-.
 Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstrap5.
-
-
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/TinDog)  
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/TinDog/).
 
+### Project 3(String-lengths-retrieving)
+* Using JavaScript Created string lengths and retrieving the number of characters. 
+ 
+ - Create a prompt where the user can enter a long string such as a paragraph of text and you will tell them how many characters they have written
+ -  Create a prompt that, when I paste a text, cuts it to 140 characters
+
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/String-lengths-retrieving)
