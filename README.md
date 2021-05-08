@@ -41,7 +41,13 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - Create a function that tells us how many days, weeks and months we have left if we live until 90 years old.
 - It will take your current age as the input and console.logs a message with our time left in this format:
 - For this challenge, assume there are 365 days in a year, 52 weeks in a year and 12 months in a year.
-
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Life-In-Week)
   
- 
+### Project 7(BMI-Calculator)
+* Using JavaScript functions Created a BMI calculator. 
+- create a function that takes weight and height as inputs and gives the calculated BMI value as an output. The output should be rounded to the nearest whole number.
+- The first parameter should be the weight(Kg) and the second should be the height(M).
+- NOTE: You do not need to write any alerts or prompts or console logs. Your code should only contain the function, the result has to be returned by the function. You do not need to call the function.
+
+* [Repository]()
+  
