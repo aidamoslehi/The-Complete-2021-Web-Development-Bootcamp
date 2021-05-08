@@ -63,7 +63,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 ### Project 10(Check-List-Person)
 * Using JavaScript created Checklist person for entry in party
 -  Write a program that checks the name of people, if they were on a list to be able to enter in the party. 
-* [Repository]()
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Check-List-Person)
   
   
   
