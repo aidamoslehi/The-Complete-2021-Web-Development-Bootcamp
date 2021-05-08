@@ -70,7 +70,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - Write a function which will select a random name from a list of names. 
 - The person selected will have to pay for everybody's food bill.
 - Important: The output should e returned from the function and you do not need alert, prompt or console.log.
-* [Repository]()
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/buying-lunch)
   
   
   
