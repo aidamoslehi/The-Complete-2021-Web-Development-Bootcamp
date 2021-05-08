@@ -75,7 +75,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 ### Project 12(FizzBuzz)
 * Using JavaScript function created FizzBuzz as array
 - Write a program that print number of 1 to 100 as a sequence and for multiples of 3 print "Fizz", for multiples of 5 print "Buzz" and for multiples of 3,5 print "FizzBuzz"
- * [Repository]()
+ * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/FizzBuzz)
   
   
   
