@@ -48,6 +48,11 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - create a function that takes weight and height as inputs and gives the calculated BMI value as an output. The output should be rounded to the nearest whole number.
 - The first parameter should be the weight(Kg) and the second should be the height(M).
 - NOTE: You do not need to write any alerts or prompts or console logs. Your code should only contain the function, the result has to be returned by the function. You do not need to call the function.
-
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/BMI-Calculator)
+
+### Project 8(Love-Calculator)
+* Using JavaScript created love calculator
+- Create a love calculator for the user to introduce 2 names and get a random "compatibility percentage"
+* [Repository])
+  
   
