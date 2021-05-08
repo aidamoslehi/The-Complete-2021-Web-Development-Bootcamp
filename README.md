@@ -42,6 +42,6 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - It will take your current age as the input and console.logs a message with our time left in this format:
 - For this challenge, assume there are 365 days in a year, 52 weeks in a year and 12 months in a year.
 
-* [Repository]()
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Life-In-Week)
   
  
