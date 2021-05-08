@@ -53,6 +53,6 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 ### Project 8(Love-Calculator)
 * Using JavaScript created love calculator
 - Create a love calculator for the user to introduce 2 names and get a random "compatibility percentage"
-* [Repository])
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Love-Calculator)
   
   
