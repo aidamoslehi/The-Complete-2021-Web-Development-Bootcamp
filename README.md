@@ -75,7 +75,17 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 ### Project 12(FizzBuzz)
 * Using JavaScript function created FizzBuzz as array
 - Write a program that print number of 1 to 100 as a sequence and for multiples of 3 print "Fizz", for multiples of 5 print "Buzz" and for multiples of 3,5 print "FizzBuzz"
- * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/FizzBuzz)
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/FizzBuzz)
+
+### Project 13(Fibonacci)
+* Using JavaScript function created fibonacci as array
+- Create a function where you can call it by writing the code "fibonacciGenerator (n)", where n is the number of items in the sequence.
+- So I should be able to call: "fibonacciGenerator(3)" and get [0,1,1] as the output.
+- IMPORTANT: The solution checker is expecting an array as the correct output.
+- You do NOT need any alerts or prompts, the result should be returned from the function as an output.
+- The first two numbers in the sequence must be 0 and 1.
+
+* [Repository]()
   
   
   
