@@ -35,4 +35,12 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - create dog years - human years converter/calculator
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/dog-years-converter)
  
+### Project 6(Life-In-Week)
+* Using JavaScript function that tells us how many days, weeks and months we have left
+- Create a function that tells us how many days, weeks and months we have left if we live until 90 years old.
+- It will take your current age as the input and console.logs a message with our time left in this format:
+- For this challenge, assume there are 365 days in a year, 52 weeks in a year and 12 months in a year.
+
+* [Repository]()
+  
  
