@@ -15,3 +15,21 @@ function bmiCalculator(weight,height){
 // bmiCalculator(45,1.56);
 // 18
 
+// --- Challenge: advanced BMI calculator.
+// Write a function that outputs (returns) a different message depending on the BMI.
+// The message MUST be returned as an output from your function. You should NOT NEED to use alert, prompt or console.log in this challenge.
+
+function bmiCalculator(weight, height) {
+    var bmi = weight / Math.pow(height, 2);
+    var interpretation = "";
+    if (bmi < 18.5) {
+        interpretation = "Your BMI is " + bmi + ", so you are underweight.";
+    }
+    if (bmi >= 18.5 && bmi <= 24.9) {
+        interpretation = "Your BMI is " + bmi + ", so you have a normal weight.";
+    }
+    if (bmi > 24.9) {
+        interpretation = "Your BMI is " + bmi + ", so you are overweight.";
+    }
+    return interpretation;
+}
