@@ -8,7 +8,8 @@ Some projects from The-Complete-2021-Web-Development-Bootcamp by Dr. Angela Yu
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/CSS-My%20Site/)
 
 ### Project 2(TinDog)  
-* Using HTML5, CSS3 and Bootsrap5 created TinDog - I used bootstrap 5 because these changes were made in the "navbar".
+* Using HTML5, CSS3 and Bootsrap5 created TinDog 
+* I used bootstrap 5 because these changes were made in the "navbar".
 -margin-left(ml) change to ms.
 -margin-right(mr) change to me.
 -padding-left(pl) change to ps.
