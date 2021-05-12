@@ -87,7 +87,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Fibonacci)
 
 ### Project 14(Dice-Game)  
-* Using HTML5, CSS3, JavaScript and DOM methods created Dicee Game
+* Using HTML5, CSS3, JavaScript and DOM methods created Dice Game
 * If you refresh the website, you can see the dice game
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Dicee-Game)  
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Dicee-Game/)
