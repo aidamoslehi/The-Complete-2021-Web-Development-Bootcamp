@@ -84,8 +84,13 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - IMPORTANT: The solution checker is expecting an array as the correct output.
 - You do NOT need any alerts or prompts, the result should be returned from the function as an output.
 - The first two numbers in the sequence must be 0 and 1.
-
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Fibonacci)
+
+### Project 14(Dicee-Game)  
+* Using HTML5, CSS3, JavaScript and DOM methods created Dicee Game
+* [Repository]()  
+* [Solution]()
+
   
   
   
