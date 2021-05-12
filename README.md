@@ -86,7 +86,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 - The first two numbers in the sequence must be 0 and 1.
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Fibonacci)
 
-### Project 14(Dicee-Game)  
+### Project 14(Dice-Game)  
 * Using HTML5, CSS3, JavaScript and DOM methods created Dicee Game
 * If you refresh the website, you can see the dice game
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Dicee-Game)  
