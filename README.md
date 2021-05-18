@@ -92,6 +92,12 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Dicee-Game)  
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Dicee-Game/)
 
+### Project 15(Drum-Kit)  
+* Using HTML5, CSS3, JavaScript, DOM Methods, Event Listeners, Higher Order Function, Callbacks Function And Animation created Drum Kit
+* If press the keys of below or click on the button, you can play drum
+* [Repository]()  
+* [Solution]()
+
 
   
   
