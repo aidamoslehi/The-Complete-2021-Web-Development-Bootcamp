@@ -93,7 +93,7 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Dicee-Game/)
 
 #### Project 14-1(Dice-Game-With-jQuery)  
-* Using HTML5, CSS3, JavaScript,jQuery and DOM methods created Dice Game
+* Using HTML5, CSS3, JavaScript, jQuery and DOM methods created Dice Game With jQuery
 * If you refresh the website, you can see the dice game
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Dice-Game-With-jQuery)  
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Dice-Game-With-jQuery/)
@@ -103,6 +103,13 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 * If press the keys of below or click on the button, you can play drum
 * [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Drum-Kit)  
 * [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Drum-Kit/)
+
+#### Project 15-1(Drum-Kit-With-jQuery)  
+* Using HTML5, CSS3, JavaScript, jQuery, DOM Methods, Event Listeners, Higher Order Function, Callbacks Function And Animation created Drum Kit With jQuery
+* If press the keys of below or click on the button, you can play drum
+* [Repository]()  
+* [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Drum-Kit/)
+
 
 
   
