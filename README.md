@@ -95,8 +95,8 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 #### Project 14-1(Dice-Game-With-jQuery)  
 * Using HTML5, CSS3, JavaScript,jQuery and DOM methods created Dice Game
 * If you refresh the website, you can see the dice game
-* [Repository]()  
-* [Solution]()
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Dice-Game-With-jQuery)  
+* [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Dice-Game-With-jQuery/)
 
 ### Project 15(Drum-Kit)  
 * Using HTML5, CSS3, JavaScript, DOM Methods, Event Listeners, Higher Order Function, Callbacks Function And Animation created Drum Kit
