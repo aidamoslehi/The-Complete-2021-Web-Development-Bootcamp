@@ -112,8 +112,8 @@ Moreover, we used .card-deck for cads in bootstrap 4 but it's removed in bootstr
 
 ### Project 16(Simon-Game)  
 * Using HTML5, CSS3, JavaScript, jQuery, DOM Methods, Event Listeners, Higher Order Function, Callbacks Function And Animation created Simon Game
-* [Repository]()  
-* [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Drum-Kit/)
+* [Repository](https://github.com/aidamoslehi/The-Complete-2021-Web-Development-Bootcamp/tree/main/Simon-Game)  
+* [Solution](https://aidamoslehi.github.io/The-Complete-2021-Web-Development-Bootcamp/Simon-Game/)
 
   
   
